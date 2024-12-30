@@ -1,0 +1,1 @@
+ C:\\Users\\bleav\\bitcoin_ticker\\.dart_tool\\flutter_build\\6e8e849efa40f76260f7e59f47604b43\\native_assets.yaml: 
